@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "levers",
+  "info": {
+    "singularName": "lever",
+    "pluralName": "levers",
+    "displayName": "Lever",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "leverName": {
+      "type": "string"
+    },
+    "secore": {
+      "type": "decimal"
+    }
+  }
+}
